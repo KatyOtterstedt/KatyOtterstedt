@@ -1,15 +1,64 @@
-<h1 align="center">Hi 👋, I'm Katia</h1>
-<h3 align="center">An emerging Data Scientist working with R programming language.</h3>
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+# Katia Otterstedt
 
-- 🔭 I’m currently working on **R language and transcriptomics**
+## 🧬 Bioinformatician | 📊 Data Scientist | 🤖 AI Enthusiast
 
-- 🌱 I’m currently learning **Python**
+I'm passionate about bridging the gap between biology and data science, using computational approaches to unlock insights from complex biological data. Currently focused on omics data analysis and exploring the intersection of AI and life sciences.
 
-- 📫 How to reach me: **katiaotterstedt@gmail.com**
+---
+
+### 🔬 What I'm Working On
+
+- **🧬 Omics Data Analysis**: Diving deep into genomics, transcriptomics, and data integration using R
+- **🐍 AI/ML Development**: Building intelligent solutions with Python for data interpretation
+- **📈 Data Visualization**: Creating compelling visual narratives from complex biological datasets
+
+### 🛠️ Technical Arsenal
+
+#### **Core Languages**
+<p align="left">
+  <img src="https://www.r-project.org/Rlogo.png" alt="R" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+</p>
+
+#### **Data & Analysis**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="45" height="45"/>
+</p>
+
+#### **Web & Design**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="45" height="45"/>
+</p>
+
+### 🎯 Key Competencies
+
+- **Bioinformatics**: Genomic data analysis, sequence alignment, variant calling
+- **Statistical Analysis**: Hypothesis testing, experimental design, statistical modeling
+- **Machine Learning**: Supervised/unsupervised learning, feature engineering, model validation
+- **Data Visualization**: Interactive dashboards, publication-quality figures
+- **Reproducible Research**: Version control, containerization, workflow management
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+### 🌟 Featured Projects
 
+> *Coming soon!*
 
+### 🤝 Let's Connect!
+
+I'm always excited to collaborate on projects at the intersection of biology, data science, and AI. Whether you're working on:
+- 🧬 Bioinformatics research
+- 📊 Data analysis challenges  
+- 🤖 AI applications in life sciences
+- 🔬 Open-source tool development
+
+**Let's chat!** 
+
+📧 **Email**: [katiaotterstedt@gmail.com](mailto:katiaotterstedt@gmail.com)
+💼 **LinkedIn**: https://www.linkedin.com/in/katiaotterstedt/
+
+---
